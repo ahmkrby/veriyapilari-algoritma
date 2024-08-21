@@ -1,2 +1,2 @@
 # veriyapilari-algoritma
-Siber Akademi, Veri Yapıları Dersi Çalışmaları
+Siber Akademi, Veri Yapıları Dersinin Çalışmaları
